@@ -1,34 +1,35 @@
-
+html, body {
+  height: 100%;
+  margin: 0;
+}
 
 body{
 
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-image: url(../img/WhatsApp\ Image\ 2025-08-06\ at\ 12.32.49.jpeg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 100%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-image: url("../img/WhatsApp Image 2025-08-06 at 12.32.49.jpeg");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
 
 }
 
+h1{
+  text-align: center;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+}
 
-
-
-h2,p{
-
-font-size: 20px;
-background-color: black;
-color: white;
-
+p{
+  font-size: 35px;
+  background-color: black;
+  color: white;
 }
 
 h2{
   text-align: center;
-  font-weight: bold;
-  font-size: 30px;
+  font-size: 35px;
+  background-color: black;
+  color: white;
 }
 
-#fim{
-  font-weight: bold;
-  text-align: center;
-}
